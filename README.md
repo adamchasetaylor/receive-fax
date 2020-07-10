@@ -15,6 +15,7 @@ FROM_EMAIL_ADDRESS=
 ## Pre-requisites
 
 [twilio-cli](https://github.com/twilio/twilio-cli)
+
 [plugin-serverless](https://github.com/twilio-labs/plugin-serverless)
 
 ## Local Setup

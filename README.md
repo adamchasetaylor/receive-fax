@@ -3,7 +3,9 @@
 Envrionment variables must be configured in your .env file.
 
 ACCOUNT_SID=
+
 AUTH_TOKEN=
+
 SENDGRID_API_KEY=
 
 ## Pre-requisites

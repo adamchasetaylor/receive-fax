@@ -3,8 +3,14 @@
 Envrionment variables must be configured in your .env file.
 
 ACCOUNT_SID=
+
 AUTH_TOKEN=
+
 SENDGRID_API_KEY=
+
+TO_EMAIL_ADDRESS=
+
+FROM_EMAIL_ADDRESS=
 
 ## Pre-requisites
 
@@ -14,6 +20,7 @@ SENDGRID_API_KEY=
 ## Local Setup
 
 cd receive-fax
+
 npm install
 
 ## Local Testing

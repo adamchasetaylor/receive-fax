@@ -1,3 +1,10 @@
 {
-	"projects": {}
+	"projects": {
+		"AC95f8917e201d242991a06456dadf4a04": {
+			"serviceSid": "ZS11385cf4c2b1484092562350645dbb8b",
+			"latestBuild": "ZB80a2d2ae8f6f697ea3a4026c2f5de4e3"
+		}
+	},
+	"serviceSid": "ZS11385cf4c2b1484092562350645dbb8b",
+	"latestBuild": "ZB80a2d2ae8f6f697ea3a4026c2f5de4e3"
 }

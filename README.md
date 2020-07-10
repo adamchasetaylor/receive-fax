@@ -11,11 +11,13 @@ SENDGRID_API_KEY=
 ## Pre-requisites
 
 [twilio-cli](https://github.com/twilio/twilio-cli)
+
 [plugin-serverless](https://github.com/twilio-labs/plugin-serverless)
 
 ## Local Setup
 
 cd receive-fax
+
 npm install
 
 ## Local Testing
